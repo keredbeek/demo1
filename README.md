@@ -11,5 +11,4 @@ Instructions for installing the project.
 
 Instructions for using the project.
 
-## Contributing
-
+## This is the DEV branch.
