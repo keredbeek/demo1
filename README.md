@@ -29,7 +29,9 @@ Instructions for contributing to the project.
 (moved to the 'dev' branch)
 
 
-Feature B finished
+Feature A finished!
+
+Feature B finished!
 
 
 
