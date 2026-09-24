@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of your project.
+A brief description of your pject.
 
 ## Installation
 
