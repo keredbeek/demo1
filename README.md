@@ -22,3 +22,8 @@ Made fix from the DEV branch.
 This is another coworker adding code.
 
 # Another New Feature!
+Instructions for contributing to the project.
+
+# Writing code on the master branch when I should be on a dev branch.
+
+(moved to the 'dev' branch)
