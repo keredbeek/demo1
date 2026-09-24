@@ -18,3 +18,5 @@ Instructions for using the project.
 Made fix from the DEV branch.
 
 # New Feature
+
+This is another coworker adding code.
